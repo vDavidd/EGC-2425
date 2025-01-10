@@ -16,4 +16,5 @@ setup(
             'rosemary=rosemary.cli:cli'
         ],
     },
+    
 )
